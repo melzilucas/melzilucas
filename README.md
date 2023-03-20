@@ -1,10 +1,11 @@
 # Hi, Lucas Eduardo Melzi 👋 - @minhavagatech
 
-<sub> 
-<strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]
+<sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-eduardo-melzi/)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6xtZVDvYzq)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/minhavagatech/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@minhavagatech)
 </sub>
-
 
 
 Me chamo Lucas Eduardo Melzi, tenho 28 anos. Sou fascinado por tecnologia e tudo que envolve dados, gosto de rotinas produtivas, leituras, esportes e alimentação saudável.
