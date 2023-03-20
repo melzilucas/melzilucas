@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-eduardo-melzi/)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6xtZVDvYzq)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minhavagatech)
-<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mailto:contato@minhavagatech.com.br)
+<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](:mailto:contato@minhavagatech.com.br)
 </sub>
 
 Me chamo Lucas Eduardo Melzi, tenho 28 anos. Sou fascinado por tecnologia e tudo que envolve dados, gosto de rotinas produtivas, leituras, esportes e alimentação saudável.
