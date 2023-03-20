@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-eduardo-melzi/)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6xtZVDvYzq)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minhavagatech)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/iuricode/readme-template/blob/main/badges/badges.md#social)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@minhavagatech.com.br)
 </sub>
 
 Me chamo Lucas Eduardo Melzi, tenho 28 anos. Sou fascinado por tecnologia e tudo que envolve dados, gosto de rotinas produtivas, leituras, esportes e alimentação saudável.
@@ -31,7 +31,7 @@ Vamos tomar um café, estou sempre aberto para aprender coisas novas e discutir 
           📺 <a href="https://www.youtube.com/@minhavagatech">Inscreva-se no YouTube</a>
         </li>
         <li>
-          📷 <a href="https://instagram.com/ackercode">Siga me no Instagram</a>
+          📷 <a href="https://instagram.com/minhavagatech">Siga me no Instagram</a>
         </li>
         <li>
           📬 <a href="mailto:contato@minhavagatech.com.br">Me envie um e-mail</a>
