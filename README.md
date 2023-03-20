@@ -1,6 +1,6 @@
 # Hi, Lucas Eduardo Melzi 👋 - @minhavagatech
 <sub> 
-    <strong><h3>Siga nas redes sociais para acompanhar mais conteúdos: </h3></strong> <br>
+    <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
     [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/minhavagatech/)
     [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-eduardo-melzi/)
     [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6xtZVDvYzq)
