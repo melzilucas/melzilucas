@@ -1,7 +1,12 @@
 # Hi, Lucas Eduardo Melzi 👋 - @minhavagatech
 
-<a href="https://www.linkedin.com/in/lucas-eduardo-melzi//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.instagram.com/minhavagatech/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>[![Gmail Badge](https://img.shields.io/badge/send%20me%20a%20email-silver?style=for-the-badge&logo=gmail&link=mailto:contato@minhavagatech.com.br)](mailto:contato@minhavagatech.com.br)
-
+<sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/minhavagatech/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-eduardo-melzi/)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6xtZVDvYzq)
+[<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/JmUu0oYwf7GGiGCUXevRzg)
+[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">(mailto:contato@minhavagatech.com.br)
+</sub>
 
 
 Me chamo Lucas Eduardo Melzi, tenho 28 anos. Sou fascinado por tecnologia e tudo que envolve dados, gosto de rotinas produtivas, leituras, esportes e alimentação saudável.
