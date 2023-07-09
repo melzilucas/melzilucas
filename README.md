@@ -23,7 +23,7 @@ Vamos tomar um café, estou sempre aberto para aprender coisas novas e discutir 
     </td>
     <td style="border: 0";>
       <p>
-        💻 Tenho um projeto para fomentar tecnologia e ajudar pessoas a ingressar ou migrar para o mercado tech, chamado: <a href="https://instagram.com/minhavagatech">Minha Vaga Tech<a/>.
+        💻 Tenho um projeto para fomentar tecnologia e ajudar pessoas a entrarem para o mercado tech, chamado: <a href="https://instagram.com/minhavagatech">Minha Vaga Tech<a/>.
       </p>
       <h3>Você pode me encontrar:</h3>
       <ul>
