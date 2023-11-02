@@ -9,8 +9,13 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@minhavagatech.com.br)
 </sub>
 
-Me chamo Lucas Eduardo Melzi, tenho 28 anos. Sou fascinado por tecnologia e tudo que envolve dados, gosto de rotinas produtivas, leituras, esportes e alimentação saudável.
-Graduado em Análise e Desenvolvimento de Sistemas, Pós Graduado em Tecnologia para Negócios: AI, Data Science e Big Data pela PUC-RS. Sempre busquei o aperfeiçoamento do conhecimento nos processos, qualidade, análise de dados e desenvolvimento de sistemas. Criterioso nas escolhas com relação às inovações, tecnologias e negócios, sem perder foco nas metas e prazos definidos nos projetos, otimizando e trazendo melhorias para as operações. Analista de Business Intelligence com experiência em Tableau, ETL, Integração de Dados, Middlewares para orquestração de Dados em conjunto com a regra de negócio requerida pelo cliente. Conhecimentos em desenvolvimento Web, Banco de Dados, Web Services, API’s, metodologias ágeis. Capacidade em se relacionar facilmente, adaptação à mudanças de forma ágil e visão analítica aos processos. 
+Como profissional sempre busquei o aperfeiçoamento do conhecimento nos processos, qualidade, análise de dados, engenharia de dados e desenvolvimento de sistemas. Criterioso nas escolhas com relação às inovações, tecnologias e negócios, sem perder foco nas metas e prazos definidos nos projetos, otimizando e trazendo melhorias para as operações. Graduado em Análise e Desenvolvimento de Sistemas, Pós Graduado em Tecnologia para Negócios: AI, Data Science e Big Data.
+
+Desenvolvedor de Integração de Dados, conhecimento em middlewares para orquestração de dados em 
+conjunto com a regra de negócio requerida pelo cliente, experiência em produtos jurídicos/legaltech.
+
+Conhecimentos em desenvolvimento Web, SQL, ETL, Tableau, Banco de Dados, Web Services, API's, metodologias ágeis, gerenciamento de versões, ferramentas de visualizações de dados e engenharia de dados. Capacidade em se relacionar facilmente, adaptação à mudanças de forma ágil e visão analítica aos processos.
+
 
 Vamos tomar um café, estou sempre aberto para aprender coisas novas e discutir ideias. Você pode me encontrar em @minhavagatech no Instagram.
 
