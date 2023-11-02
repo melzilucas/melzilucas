@@ -19,7 +19,7 @@ Vamos tomar um café, estou sempre aberto para aprender coisas novas e discutir 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://github.com/melzilucas/melzilucas.github.io/blob/c8621731b40454621bd2a9c2afa45a77d29c297f/assets/images/minhavagatech-logo.png?raw=true" />
+      <img width="400" src="https://raw.githubusercontent.com/melzilucas/minhavagatech/main/logo-minhavagatech-site.png" />
     </td>
     <td style="border: 0";>
       <p>
@@ -28,7 +28,7 @@ Vamos tomar um café, estou sempre aberto para aprender coisas novas e discutir 
       <h3>Você pode me encontrar:</h3>
       <ul>
         <li>
-          📺 <a href="https://www.youtube.com/@minhavagatech">Inscreva-se no YouTube</a>
+          📺 <a href="https://minhavagatech.com.br/links">Meu site</a>
         </li>
         <li>
           📷 <a href="https://instagram.com/minhavagatech">Siga me no Instagram</a>
